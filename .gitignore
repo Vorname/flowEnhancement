@@ -1,0 +1,9 @@
+**/.vs
+**/.vscode
+**/__pycache__
+**/file.log
+advection/initialFlows
+advection/LICM
+advection/LICN
+tf_flow_forecasting/flowData
+tf_flow_forecasting/trainingSets/
